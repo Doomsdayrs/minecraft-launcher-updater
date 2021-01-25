@@ -1,5 +1,5 @@
 # minecraft-launcher-updater
-A simple script that installs / updates the minecraft launcher
+A simple script that installs / updates the minecraft launcher. I made this because it is sooooooo annoying to go to the minecraft website and download the deb then install it. Simple and easy below
 
 
 # Setup:
