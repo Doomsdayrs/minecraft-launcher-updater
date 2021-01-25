@@ -5,7 +5,7 @@ updateFile="/tmp/Minecraft.deb"
 
 echo "Downloading update"
 curl "https://launcher.mojang.com/download/Minecraft.deb" > $updateFile
-echo "Update complete!"
+echo "Download complete!"
 
 # Kills the launcher
 
