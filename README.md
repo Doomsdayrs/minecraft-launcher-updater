@@ -15,3 +15,9 @@ Same as before in requirments
 ```
 chmod +x ./uninstall.sh && ./uninstall.sh
 ```
+
+# Usage:
+From any terminal
+```
+update-minecraft
+```
