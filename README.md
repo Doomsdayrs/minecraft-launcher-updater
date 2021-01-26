@@ -7,13 +7,13 @@ Either clone the repository or download the latest [release](https://github.com/
 
 Assuming you are in the right directory
 ```
-chmod +x ./install.sh && ./install.sh
+chmod +x install.sh && ./install.sh
 ```
 
 # Remove: 
 Same as before in requirments
 ```
-chmod +x ./uninstall.sh && ./uninstall.sh
+chmod +x uninstall.sh && ./uninstall.sh
 ```
 
 # Usage:
